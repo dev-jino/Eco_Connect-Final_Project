@@ -68,3 +68,4 @@ jobs:
           cd
           docker-compose up -d
           sudo service nginx restart
+          
