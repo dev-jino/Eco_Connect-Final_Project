@@ -1,9 +1,5 @@
 package com.kosta268.eco_connect.configuration.security;
 
-//import com.example.websocketchat.jwt.JwtAccessDeniedHandler;
-//import com.example.websocketchat.jwt.JwtAuthenticationEntryPoint;
-//import com.example.websocketchat.jwt.JwtSecurityConfig;
-//import com.example.websocketchat.jwt.TokenProvider;
 import com.kosta268.eco_connect.jwt.JwtAccessDeniedHandler;
 import com.kosta268.eco_connect.jwt.JwtAuthenticationEntryPoint;
 import com.kosta268.eco_connect.jwt.JwtSecurityConfig;

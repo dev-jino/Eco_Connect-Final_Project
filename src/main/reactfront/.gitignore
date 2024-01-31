@@ -9,7 +9,7 @@
 /coverage
 
 # application
-application.properties
+#application.properties
 
 # production
 /build
